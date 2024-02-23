@@ -1,0 +1,1 @@
+// y. Escrever um programa que leia um vetor com dez elementos inteiros. Apresentar o total de elementos ímpares no vetor e também a porcentagem de números ímpares em relação ao total de elementos armazenados no vetor.

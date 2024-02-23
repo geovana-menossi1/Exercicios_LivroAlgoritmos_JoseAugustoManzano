@@ -1,0 +1,1 @@
+// c. Elaborar um programa que leia 20 elementos para uma matriz com quatro linha e cinco colunas. Em seguida apresentar a matriz.

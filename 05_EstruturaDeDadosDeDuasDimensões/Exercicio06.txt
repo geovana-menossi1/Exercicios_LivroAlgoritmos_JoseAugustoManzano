@@ -1,0 +1,1 @@
+// f. Elaborar uma programa que leia uma matriz com cinco linhas e quatro colunas. Construir uma segunda matriz em que cada elemento seja o fatorial do elemento correspondente armazenado na primeira matriz. Apresentar as matrizes ao final.

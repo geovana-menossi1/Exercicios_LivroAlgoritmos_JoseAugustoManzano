@@ -1,0 +1,1 @@
+\\ g. Elaborar um programa que leia uma matriz com quatro linhas e cinco colunas, contento temperaturas em Celsius e então criar uma segunda matriz com os valores de cada elemento da primeira matriz convertido em Fahrenheit.

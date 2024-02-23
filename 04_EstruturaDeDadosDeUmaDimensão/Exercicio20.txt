@@ -1,0 +1,1 @@
+//t. Escrever um programa que leia dois vetores com dez elementos cada. O primeiro vetor deve aceitar apenas a entrada de valores divisíveis por 2 e 3, enquanto o segundo deve aceitar apenas os múltiplos de 5. A entrada dos valores deve ser validade pelo programa, e não pelo usuário. Construir um terceiro vetor que seja a junção dos outros dois.

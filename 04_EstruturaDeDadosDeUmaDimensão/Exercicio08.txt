@@ -1,0 +1,1 @@
+//h.  Elaborar um programa que leia 20 elementos do tipo real em um vetor e construir uma segunda matriz de mesma dimensão com os elementos da primeira matriz armazenado, porém de forma invertida, ou seja o primeiro elemento do primeiro vetor deve ser o último elemento do segundo e assim sucessivamente.

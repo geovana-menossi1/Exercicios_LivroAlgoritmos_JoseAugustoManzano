@@ -1,0 +1,1 @@
+// i. Escrever um programa que leia três vetores com cinco elementos cada que seja do tipo real. Construir um quarto vetor como resultado da junção das trê primeiras. Apresentar os elementos das três matrizes.

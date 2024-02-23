@@ -1,0 +1,1 @@
+//q Elaborar um programa que leia um vetor de 15 elementos reais. Construir um segunda matriz com a seguinte lei de formação: todo elemento da primeira matriz que possuir índice par deve ter seus elementos divididos por 2, casa contrário, o elemento deve ser multiplicado por 1.5. Apresentar os elementos dos vetores.

@@ -1,0 +1,1 @@
+//o. Escrever um programa que leia 25 elementos (valores reais) para temperaturas em graus Celsius e armazene os valores em um vetor. Construir outro vetor onde seus elementos são as temperaturas do primeiro vetor convertido para Fahrenheit.
