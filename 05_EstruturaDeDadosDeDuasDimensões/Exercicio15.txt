@@ -1,0 +1,1 @@
+// o. Elaborar um programa que leia um matriz do tipo real com oito linhas e seis colunas. Construir uma segunda matriz que seja formada pela soma de cada linha da primeira matriz. Ao final, apresentar o somatório dos elementos da primeira e seguda matriz.

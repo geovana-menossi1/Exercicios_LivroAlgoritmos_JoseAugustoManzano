@@ -1,0 +1,1 @@
+// m. Elaborar um programa que leia uma matriz do tipo real com cinco linhas e cinco colunas. Apresentar o somatório dos elementos situados nas posições de linha e coluna  ímpares (posições [1,1], [3,3] e [5,5])

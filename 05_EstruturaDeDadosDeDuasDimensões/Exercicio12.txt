@@ -1,0 +1,1 @@
+// l. Elaborar um programa que leia uma matriz com 15 linhas e 15 colunas. Apresentar o somatório dos elementos pares situados na diagonal principal da referida matriz.
