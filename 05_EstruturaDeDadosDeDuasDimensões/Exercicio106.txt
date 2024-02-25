@@ -1,1 +1,21 @@
-// t. Elaborar um programa que leia duas matrizes com quatro linhas e cinco colunas. A primeira matriz deve ser formada por valores divisíveis por 3 e 4, enquanto a segunda matriz deve ser formada por valores divisíveis poir 5 e 6. As entradas dos valores nas matrizes devem ser validadas pelo programa. e não pelo usuário. Construir e apresentar um terceira matriz da mesma dimensão que contenha a subtração dos elementos da primeira matriz pelo elementos da segunda.
+// #### Exercício 106: Subtração de Matrizes com Condições
+
+// Elaborar um programa que leia duas matrizes com quatro linhas e cinco colunas. A primeira matriz deve ser formada por valores divisíveis por 3 e 4, enquanto a segunda matriz deve ser formada por valores divisíveis por 5 e 6. As entradas dos valores nas matrizes devem ser validadas pelo programa, e não pelo usuário. Construir e apresentar uma terceira matriz da mesma dimensão que contenha a subtração dos elementos da primeira matriz pelos elementos da segunda.
+
+// **Exemplo:**
+
+// Entrada:
+// Primeira Matriz: [12, 24, 36, 48, 60,
+//                    72, 84, 96, 108, 120,
+//                    132, 144, 156, 168, 180,
+//                    192, 204, 216, 228, 240]
+
+// Segunda Matriz:  [30, 60, 90, 120, 150,
+//                    180, 210, 240, 270, 300,
+//                    330, 360, 390, 420, 450,
+//                    480, 510, 540, 570, 600]
+
+// Saída: Terceira Matriz: [-18, -36, -54, -72, -90,
+//                           -108, -126, -144, -162, -180,
+//                           -198, -216, -234, -252, -270,
+//                           -288, -306, -324, -342, -360]

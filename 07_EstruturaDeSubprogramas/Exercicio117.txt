@@ -1,0 +1,52 @@
+// #### Exercício 117: Gerenciamento de Funcionários
+
+// Considerando os registros de 20 funcionários, com os campos matrícula, nome e salário, desenvolver um programa que utilize subprogramas e apresente um menu para a execução das seguintes etapas:
+
+// a. Cadastrar os 20 empregados.
+// b. Classificar os registros por número de matrícula.
+// c. Pesquisar um determinado empregado pelo número de matrícula.
+// d. Apresentar de forma ordenada os registros dos empregados que recebem salários acima de R$ 1.000.
+// e. Apresentar de forma ordenada os registros dos empregados que recebem salários abaixo de R$ 1.000.
+// f. Apresentar de forma ordenada os registros dos empregados que recebem salários iguais a R$ 1.000.
+// g. Sair do programa de cadastro.
+
+// **Exemplo de cadastro:**
+
+// Registro 1:
+// Matrícula: 001
+// Nome: João
+// Salário: R$ 1.200,00
+
+// Registro 2:
+// Matrícula: 002
+// Nome: Maria
+// Salário: R$ 900,00
+
+// ...
+
+// Registro 20:
+// Matrícula: 020
+// Nome: Pedro
+// Salário: R$ 1.500,00
+
+// **Exemplo de pesquisa (opção c):**
+// Digite o número de matrícula: 005
+// Resultado da pesquisa:
+// Matrícula: 005
+// Nome: José
+// Salário: R$ 1.100,00
+
+// **Exemplo de apresentação (opção d):**
+// Empregados com salários acima de R$ 1.000,00:
+// - Pedro: R$ 1.500,00
+// - ...
+
+// **Exemplo de apresentação (opção e):**
+// Empregados com salários abaixo de R$ 1.000,00:
+// - Maria: R$ 900,00
+// - ...
+
+// **Exemplo de apresentação (opção f):**
+// Empregados com salários iguais a R$ 1.000,00:
+// - João: R$ 1.000,00
+// - ...

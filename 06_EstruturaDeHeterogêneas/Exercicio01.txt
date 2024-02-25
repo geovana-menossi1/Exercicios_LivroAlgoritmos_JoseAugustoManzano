@@ -1,6 +1,0 @@
-// Elaborar um programa que efetue o gerenciamento de dez registros de uma agenda que contenha nome, endereços e telefones, o programa deverá ter um menu com as seguintes opções:
-// a. Cadastrar os dez registros
-// b. Pesquisar um registro de cada vez pelo campo nome (usar o método sequencial).
-// c. Classificar por ordem de nome os registros cadastrados.
-// d.  Apresentar todos os registros.
-// e. Sair do programa de cadastro.

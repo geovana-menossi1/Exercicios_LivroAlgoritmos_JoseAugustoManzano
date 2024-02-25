@@ -1,1 +1,10 @@
-// l. Elaborar um programa que leia uma matriz com 15 linhas e 15 colunas. Apresentar o somatório dos elementos pares situados na diagonal principal da referida matriz.
+// Exercício 98: Somatório dos Elementos de uma Matriz
+// Elaborar um programa que leia uma matriz do tipo inteiro com cinco linhas e cinco colunas. Apresentar o somatório de todos os elementos da matriz.
+
+// Exemplo:
+// Entrada: Matriz: [1, 2, 3, 4, 5,
+//                    6, 7, 8, 9, 10,
+//                    11, 12, 13, 14, 15,
+//                    16, 17, 18, 19, 20,
+//                    21, 22, 23, 24, 25]
+// Saída:   Somatório dos Elementos da Matriz: 325

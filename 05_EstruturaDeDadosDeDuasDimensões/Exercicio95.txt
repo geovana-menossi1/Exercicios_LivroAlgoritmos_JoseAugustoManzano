@@ -1,4 +1,4 @@
-// Exercício 105: Matriz com Somatório e Valores Específicos
+// Exercício 95: Matriz com Somatório e Valores Específicos
 // Elaborar um programa que leia uma matriz do tipo inteiro com sete linhas e sete colunas. Construir uma segunda matriz de mesma dimensão, em que cada elemento seja o somatório de 1 até o valor armazenado na posição na primeira matriz, com exceção dos valores situados nos índices ímpares da diagonal principal (posições [1,1], [2,2], [3,3], [4,4] e [5,5]), os quais devem ser o triplo de cada elemento correspondente da primeira matriz. Apresentar as duas matrizes ao final.
 
 // Exemplo:

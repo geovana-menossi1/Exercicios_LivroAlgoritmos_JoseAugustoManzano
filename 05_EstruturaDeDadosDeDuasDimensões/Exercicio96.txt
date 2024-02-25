@@ -1,4 +1,4 @@
-// Exercício 106: Manipulação de Matrizes
+// Exercício 96: Manipulação de Matrizes
 // Elaborar um programa que leia uma matriz com seis linhas e cinco colunas. Construir uma segunda matriz de mesma dimensão, que deve ser formada do seguinte modo: para cada elemento par da primeira matriz deve ser somado 5 e de cada elemento ímpar deve ser subtraído 4. Apresentar ao final as matrizes.
 
 // Exemplo:

@@ -1,1 +1,23 @@
-// p. Elaborar um programa que leia uma matriz de dez linhas e sete colunas. Ao final, apresentar o total de elementos pares e ímpares existentes na matriz. Apresentar também o percentual de elementos pares e ímpares em relação ao total de elementos da matriz. Supondo a existência de 20 elementos pares e 50 elementos ímpares, haveria 28,6% de elementos pares e 71,4% de elementos ímpares.
+// #### Exercício 102: Contagem de Números Pares e Ímpares em Matriz
+
+// Elaborar um programa que leia uma matriz de dez linhas e sete colunas. Ao final, apresentar o total de elementos pares e ímpares existentes na matriz. Apresentar também o percentual de elementos pares e ímpares em relação ao total de elementos da matriz. Supondo a existência de 20 elementos pares e 50 elementos ímpares, haveria 28,6% de elementos pares e 71,4% de elementos ímpares.
+
+// **Exemplo:**
+
+// Entrada:
+// Matriz: (exemplo fictício)
+// [1, 2, 3, 4, 5, 6, 7,
+//  8, 9, 10, 11, 12, 13, 14,
+//  15, 16, 17, 18, 19, 20, 21,
+//  22, 23, 24, 25, 26, 27, 28,
+//  29, 30, 31, 32, 33, 34, 35,
+//  36, 37, 38, 39, 40, 41, 42,
+//  43, 44, 45, 46, 47, 48, 49,
+//  50, 51, 52, 53, 54, 55, 56,
+//  57, 58, 59, 60, 61, 62, 63,
+//  64, 65, 66, 67, 68, 69, 70]
+
+// Saída: Total de elementos pares: 20
+//        Total de elementos ímpares: 50
+//        Percentual de elementos pares: 28.6%
+//        Percentual de elementos ímpares: 71.4%

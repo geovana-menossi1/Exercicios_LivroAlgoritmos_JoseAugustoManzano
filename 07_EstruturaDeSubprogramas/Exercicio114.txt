@@ -1,0 +1,49 @@
+// #### Exercício 114: Agenda de Contatos
+
+// Desenvolva um programa de agenda que contenha nomes, endereços e telefones de dez pessoas capaz de executar as seguintes ações.
+
+// a. Cadastrar os dez registros
+// b. Pesquisar os dez registros, um de cada vez, pelo campo nome.
+// c. Classificar por ordem alfabética os registros cadastrados.
+// d. Apresentar todos os registros.
+// e. Sair do programa de cadastro.
+
+// **Exemplo de cadastro:**
+
+// Registro 1:
+// Nome: João
+// Endereço: Rua A, 123
+// Telefone: (11) 1234-5678
+
+// Registro 2:
+// Nome: Maria
+// Endereço: Rua B, 456
+// Telefone: (11) 8765-4321
+
+// ...
+
+// Registro 10:
+// Nome: Pedro
+// Endereço: Rua C, 789
+// Telefone: (11) 9876-5432
+
+// **Exemplo de pesquisa (opção b):**
+// Digite o nome para pesquisa: Maria
+// Resultado da pesquisa:
+// Nome: Maria
+// Endereço: Rua B, 456
+// Telefone: (11) 8765-4321
+
+// **Exemplo de classificação (opção c):**
+// Registros classificados por ordem alfabética.
+
+// **Exemplo de apresentação (opção d):**
+// Registro 1:
+// Nome: João
+// Endereço: Rua A, 123
+// Telefone: (11) 1234-5678
+// ...
+// Registro 10:
+// Nome: Pedro
+// Endereço: Rua C, 789
+// Telefone: (11) 9876-5432

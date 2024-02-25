@@ -1,1 +1,10 @@
-// k. Elaborar um programa que leia uma matriz do tipo real de cinco linhas e cinco colunas. Apresentar o somatório dos elementos situadas na diagonal principal principal posições (posições [1,1], [2,2], [3,3], [4,4] e [5,5]).
+// Exercício 97: Somatório dos Elementos da Diagonal Principal
+// Elaborar um programa que leia uma matriz do tipo real de cinco linhas e cinco colunas. Apresentar o somatório dos elementos situados na diagonal principal (posições [1,1], [2,2], [3,3], [4,4] e [5,5]).
+
+// Exemplo:
+// Entrada: Matriz: [1, 2, 3, 4, 5,
+//                    6, 7, 8, 9, 10,
+//                    11, 12, 13, 14, 15,
+//                    16, 17, 18, 19, 20,
+//                    21, 22, 23, 24, 25]
+// Saída:   Somatório da Diagonal Principal: 65

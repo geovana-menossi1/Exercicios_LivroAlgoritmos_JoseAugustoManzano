@@ -1,0 +1,56 @@
+// #### Exercício 115: Gerenciamento de Notas de Alunos
+
+// Crie um programa de computador que armazene o nome e as notas bimestrais de 20 alunos do curso de Técnicas de Programação que execute as seguintes etapas:
+
+// a. Cadastrar os 20 registros (após o cadastro, fazer a calssificação por nome)
+// b. Pesquisar os 20 registros, um de cada vez, pelo campo nome (usar o método de binário; nesse pesquisa, o programa deve também apresentar a média do aluno e as mesagens "Aprovado", caso a média seja maior ou igual a 5, ou "Reprovado" para média abaixo e 5).
+// c. Apresentar todos os registros e as médias dos alunos aprovados.
+// d. Apresetnar apenas os registros e as médias dos alunos aprovados.
+// e. Apresentar apenas os registros e as médias dos alunos reprovados.
+// f. Sair do programa de cadastro.
+
+// **Exemplo de cadastro:**
+
+// Registro 1:
+// Nome: João
+// Notas: [7.5, 8.0, 6.5, 9.0]
+// Média: 7.5
+// Situação: Aprovado
+
+// Registro 2:
+// Nome: Maria
+// Notas: [6.0, 5.5, 4.0, 6.5]
+// Média: 5.5
+// Situação: Reprovado
+
+// ...
+
+// Registro 20:
+// Nome: Pedro
+// Notas: [8.0, 7.5, 8.5, 7.0]
+// Média: 7.75
+// Situação: Aprovado
+
+// **Exemplo de pesquisa (opção b):**
+// Digite o nome para pesquisa: Maria
+// Resultado da pesquisa:
+// Nome: Maria
+// Notas: [6.0, 5.5, 4.0, 6.5]
+// Média: 5.5
+// Situação: Reprovado
+
+// **Exemplo de apresentação (opção c):**
+// Todos os registros:
+// - João: Média 7.5 (Aprovado)
+// - Maria: Média 5.5 (Reprovado)
+// ...
+
+// **Exemplo de apresentação (opção d):**
+// Registros dos alunos aprovados:
+// - João: Média 7.5 (Aprovado)
+// - ...
+
+// **Exemplo de apresentação (opção e):**
+// Registros dos alunos reprovados:
+// - Maria: Média 5.5 (Reprovado)
+// - ...

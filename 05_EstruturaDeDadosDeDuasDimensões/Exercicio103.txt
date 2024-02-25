@@ -1,1 +1,15 @@
-// q. Elaborar um programa que faça a leitura de 20 valores inteiros em uma matriz com quatro linhas e cinco colunas. Construir uma segunda matriz com quatro elementos que seja formada pelo somatório dos elementos correspondentes de cada linha da primeira matriz. Construir também um terceira matriz com cinco elementos que seja formada para somatório de cada elemento das colunas da primeira matriz.
+// #### Exercício 103: Soma de Linhas e Colunas em Matriz
+
+// Elaborar um programa que faça a leitura de 20 valores inteiros em uma matriz com quatro linhas e cinco colunas. Construir uma segunda matriz com quatro elementos que seja formada pelo somatório dos elementos correspondentes de cada linha da primeira matriz. Construir também uma terceira matriz com cinco elementos que seja formada pelo somatório de cada elemento das colunas da primeira matriz.
+
+// **Exemplo:**
+
+// Entrada:
+// Matriz:
+// [1, 2, 3, 4, 5,
+//  6, 7, 8, 9, 10,
+//  11, 12, 13, 14, 15,
+//  16, 17, 18, 19, 20]
+
+// Saída: Segunda Matriz: [15, 40, 65, 90]
+//        Terceira Matriz: [34, 38, 42, 46, 50]

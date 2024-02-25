@@ -1,7 +1,0 @@
-// Elaborar um programa que armazene o nome e a altura de 15 pessoas com o uso de registros. O programa deve utilizar subprogramas tanto na apresentação do menu como de suas rotinas para a execução das seguintes etapas:
-// a. Cadastrar os 15 registros
-// b. Apresentar os registros (nome e altura) das pessoas com 1.5 m ou menos.
-// c. Apresentar os registros (nome e altura) das pessoas com mais de 1.5 m.
-// d. Apresentar os registros (nome e altura) das pessoas.
-// e. Apresentar todos os registros com a média extraída de todas as alturas armazenadas.
-// f. Sair do progrma de cadastro.

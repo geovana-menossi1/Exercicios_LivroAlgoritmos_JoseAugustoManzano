@@ -1,5 +1,0 @@
-// Elaborar um programa escolar que armazene o nome e as notas bimestrais de 20 alunos de um determinado curso. O programa deverá realizar as seguintes operações.
-// a. Cadastrar os 20 registros (após o registro ordenar os registros pelo nome
-// b. Pesquisar os 20 registros, de cada vez, pelo campo nome, o programa deve também apresentar a média do aluno e as mensagens: "Aprovado, caso sua média seja maior ou igual a 5, ou "Reprovado" para média abaixo de 5).
-// c. Apresentar todos os registros, médias e a mensagem de aprovação ou reprovação.
-// d. Sair do programa cadastrado.

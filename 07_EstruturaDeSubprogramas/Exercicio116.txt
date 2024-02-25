@@ -1,0 +1,46 @@
+// #### Exercício 116: Cadastro de Pessoas e Alturas
+
+// Elaborar um programa que armazene o nome e a altura de 15 pessoas com o uso de registros. O programa deve utilizar subprogramas tanto na apresentação do menu como de suas rotinas para a execução das seguintes etapas:
+
+// a. Cadastrar os 15 registros
+// b. Apresentar os registros (nome e altura) das pessoas com 1.5 m ou menos.
+// c. Apresentar os registros (nome e altura) das pessoas com mais de 1.5 m.
+// d. Apresentar os registros (nome e altura) das pessoas.
+// e. Apresentar todos os registros com a média extraída de todas as alturas armazenadas.
+// f. Sair do programa de cadastro.
+
+// **Exemplo de cadastro:**
+
+// Registro 1:
+// Nome: João
+// Altura: 1.70 m
+
+// Registro 2:
+// Nome: Maria
+// Altura: 1.45 m
+
+// ...
+
+// Registro 15:
+// Nome: Pedro
+// Altura: 1.85 m
+
+// **Exemplo de apresentação (opção b):**
+// Pessoas com 1.5 m ou menos:
+// - Maria: 1.45 m
+// - ...
+
+// **Exemplo de apresentação (opção c):**
+// Pessoas com mais de 1.5 m:
+// - João: 1.70 m
+// - Pedro: 1.85 m
+// ...
+
+// **Exemplo de apresentação (opção d):**
+// Todos os registros:
+// - João: 1.70 m
+// - Maria: 1.45 m
+// ...
+
+// **Exemplo de apresentação (opção e):**
+// Média de altura das pessoas: 1.65 m

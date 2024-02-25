@@ -1,8 +1,0 @@
-// Consideranado os registros de 20 funcionários, com os campos matrícula, nome e salário, desenovler um programa que utilize subprogramas e apresnte um menu para a execução das seguintes etapas:
-// a. Cadastrar os 20 empregados.
-// b. classificar os rfegistros por número de matrícula.
-// c. Pesquisar um determinado empregado pelo número de matrícula.
-// d. Apresentar de forma ordenada os registros dos empregados que recebem salários acima de R$ 1.000.
-// e. Apresentar de forma ordenada os registros dos empregados que recebem salários abaixo de R$ 1.000.
-// f. Apresentar de forma ordenada os registros dos empregados que recebem salários iguais a R$ 1.000.
-// g. Sair do programa de cadastro.

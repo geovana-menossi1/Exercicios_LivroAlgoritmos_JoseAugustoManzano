@@ -1,0 +1,45 @@
+// #### Exercício 110: Gerenciamento de Registros em uma Agenda
+
+// Elaborar um programa que efetue o gerenciamento de dez registros de uma agenda que contenha nome, endereços e telefones. O programa deverá ter um menu com as seguintes opções:
+
+// a. Cadastrar os dez registros
+// b. Pesquisar um registro de cada vez pelo campo nome (usar o método sequencial).
+// c. Classificar por ordem de nome os registros cadastrados.
+// d. Apresentar todos os registros.
+// e. Sair do programa de cadastro.
+
+// **Exemplo de cadastro:**
+
+// Registro 1:
+// Nome: João
+// Endereço: Rua A, 123
+// Telefone: (11) 1234-5678
+// ...
+// Registro 10:
+// Nome: Maria
+// Endereço: Rua B, 456
+// Telefone: (11) 8765-4321
+
+// **Exemplo de pesquisa:**
+
+// Digite o nome para pesquisa: João
+// Resultado da pesquisa:
+// Nome: João
+// Endereço: Rua A, 123
+// Telefone: (11) 1234-5678
+
+// **Exemplo de classificação:**
+
+// Registros classificados por ordem de nome.
+
+// **Exemplo de apresentação:**
+
+// Registro 1:
+// Nome: João
+// Endereço: Rua A, 123
+// Telefone: (11) 1234-5678
+// ...
+// Registro 10:
+// Nome: Maria
+// Endereço: Rua B, 456
+// Telefone: (11) 8765-4321

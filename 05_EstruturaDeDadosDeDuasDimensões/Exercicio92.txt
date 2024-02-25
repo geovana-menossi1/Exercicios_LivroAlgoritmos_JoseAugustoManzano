@@ -1,0 +1,15 @@
+// Exercício 92: Fatorial de Elementos de uma Matriz
+// Elaborar uma programa que leia uma matriz com cinco linhas e quatro colunas. Construir uma segunda matriz em que cada elemento seja o fatorial do elemento correspondente armazenado na primeira matriz. Apresentar as matrizes ao final.
+
+// Exemplo:
+// Entrada: Matriz Original: [1, 2, 3, 4,
+//                             5, 6, 7, 8,
+//                             9, 10, 11, 12,
+//                             13, 14, 15, 16,
+//                             17, 18, 19, 20]
+
+// Saída:   Matriz Fatorial: [1, 2, 6, 24,
+//                             120, 720, 5040, 40320,
+//                             362880, 3628800, 39916800, 479001600,
+//                             6227020800, 87178291200, 1307674368000, 20922789888000,
+//                             355687428096000, 6402373705728000, 121645100408832000, 2432902008176640000]

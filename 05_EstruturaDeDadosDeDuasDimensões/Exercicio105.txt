@@ -1,1 +1,21 @@
-// s. Elaborar um programa que leia duas matrizes com quatro linhas e cinco colunas. A  primeira matriz deve ser formada por valores divisíveis por 3 e 4, enquanto a segunda matriz deve ser formada por valores divisíveis por 5 e 6. Aas entradas dos valores nas matrizes devem ser validados pelo programa, e não pelo usuário. Construir e apresentar uma terceira matrizde mesma dimensão, que seja formada pelo soma dos elementos da primeira matriz com os elementos da segunda. Apresentar as matrizes.
+// #### Exercício 105: Soma de Matrizes com Condições
+
+// Elaborar um programa que leia duas matrizes com quatro linhas e cinco colunas. A primeira matriz deve ser formada por valores divisíveis por 3 e 4, enquanto a segunda matriz deve ser formada por valores divisíveis por 5 e 6. As entradas dos valores nas matrizes devem ser validadas pelo programa, e não pelo usuário. Construir e apresentar uma terceira matriz de mesma dimensão, que seja formada pela soma dos elementos da primeira matriz com os elementos da segunda. Apresentar as matrizes.
+
+// **Exemplo:**
+
+// Entrada:
+// Primeira Matriz: [12, 24, 36, 48, 60,
+//                    72, 84, 96, 108, 120,
+//                    132, 144, 156, 168, 180,
+//                    192, 204, 216, 228, 240]
+
+// Segunda Matriz:  [30, 60, 90, 120, 150,
+//                    180, 210, 240, 270, 300,
+//                    330, 360, 390, 420, 450,
+//                    480, 510, 540, 570, 600]
+
+// Saída: Terceira Matriz: [42, 84, 126, 168, 210,
+//                            252, 294, 336, 378, 420,
+//                            462, 504, 546, 588, 630,
+//                            672, 714, 756, 798, 840]
