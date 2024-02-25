@@ -1,6 +1,6 @@
 # Exercícios de Algoritmos
 
-Este repositório contém os exercícios do livro "Algoritmos" do autor José Augusto N. G. Manzano, destinados aos alunos do curso técnico.
+Este repositório contém os exercícios baseado no livro "Algoritmos" do autor José Augusto N. G. Manzano, destinados aos alunos do curso técnico.
 
 ## Sobre o Livro
 
