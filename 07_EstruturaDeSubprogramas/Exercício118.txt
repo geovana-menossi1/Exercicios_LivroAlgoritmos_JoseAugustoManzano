@@ -1,0 +1,52 @@
+// ### Exercício: Gerenciamento de Produtos
+
+// Desenvolva um programa que gerencie os registros de 20 produtos em um estoque, contendo os campos código, descrição e quantidade. O programa deve utilizar subprogramas e apresentar um menu para executar as seguintes etapas:
+
+// a. Cadastrar os 20 produtos.
+// b. Classificar os registros por código do produto.
+// c. Pesquisar um produto pelo código.
+// d. Adicionar quantidade a um produto específico.
+// e. Remover quantidade de um produto específico.
+// f. Apresentar de forma ordenada os registros dos produtos em estoque.
+// g. Sair do programa de controle de estoque.
+
+// **Exemplo de cadastro:**
+// Produto 1:
+// Código: 001
+// Descrição: Caneta Azul
+// Quantidade: 100
+
+// Produto 2:
+// Código: 002
+// Descrição: Caderno Grande
+// Quantidade: 50
+
+// ...
+
+// Produto 20:
+// Código: 020
+// Descrição: Borracha Branca
+// Quantidade: 200
+
+// **Exemplo de pesquisa (opção c):**
+// Digite o código do produto para pesquisa: 002
+// Resultado da pesquisa:
+// Produto: Caderno Grande
+// Quantidade: 50
+
+// **Exemplo de adição de quantidade (opção d):**
+// Digite o código do produto para adicionar quantidade: 001
+// Digite a quantidade a adicionar: 50
+// Quantidade adicionada com sucesso.
+
+// **Exemplo de remoção de quantidade (opção e):**
+// Digite o código do produto para remover quantidade: 020
+// Digite a quantidade a remover: 20
+// Quantidade removida com sucesso.
+
+// **Exemplo de apresentação (opção f):**
+// Produtos em estoque:
+// - Código: 001, Descrição: Caneta Azul, Quantidade: 150
+// - Código: 002, Descrição: Caderno Grande, Quantidade: 50
+// ...
+// - Código: 020, Descrição: Borracha Branca, Quantidade: 180

@@ -1,0 +1,50 @@
+// ### Exercício: Gerenciamento de Carros
+
+// Desenvolva um programa que gerencie os registros de 30 carros, contendo os campos placa, modelo e ano de fabricação. O programa deve utilizar subprogramas e apresentar um menu para executar as seguintes etapas:
+
+// a. Cadastrar os 30 carros.
+// b. Classificar os registros por ano de fabricação.
+// c. Pesquisar um carro pela placa.
+// d. Apresentar de forma ordenada os registros dos carros fabricados antes de 2010.
+// e. Apresentar de forma ordenada os registros dos carros fabricados em 2010 ou depois.
+// f. Apresentar de forma ordenada os registros dos carros fabricados no ano de 2010.
+// g. Sair do programa de gerenciamento de carros.
+
+// **Exemplo de cadastro:**
+// Carro 1:
+// Placa: ABC-1234
+// Modelo: Gol
+// Ano de Fabricação: 2008
+
+// Carro 2:
+// Placa: DEF-5678
+// Modelo: Onix
+// Ano de Fabricação: 2015
+
+// ...
+
+// Carro 30:
+// Placa: XYZ-9876
+// Modelo: Corolla
+// Ano de Fabricação: 2012
+
+// **Exemplo de pesquisa (opção c):**
+// Digite a placa do carro para pesquisa: DEF-5678
+// Resultado da pesquisa:
+// Carro: Onix
+// Ano de Fabricação: 2015
+
+// **Exemplo de apresentação (opção d):**
+// Carros fabricados antes de 2010:
+// - Placa: ABC-1234, Modelo: Gol, Ano de Fabricação: 2008
+// ...
+
+// **Exemplo de apresentação (opção e):**
+// Carros fabricados em 2010 ou depois:
+// - Placa: DEF-5678, Modelo: Onix, Ano de Fabricação: 2015
+// ...
+
+// **Exemplo de apresentação (opção f):**
+// Carros fabricados no ano de 2010:
+// - Placa: LMN-4567, Modelo: Fiesta, Ano de Fabricação: 2010
+// ...
