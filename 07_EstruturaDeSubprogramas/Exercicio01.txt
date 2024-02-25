@@ -1,0 +1,6 @@
+// Desenvolva um programa de agenda que contenha nomes, endereços e telefones de dez pessoas capaz de executar as seguintes ações.
+// a. Cadastrar os dez registros
+// b. Pesquisar os dez registros, um de cada vez, pelo campo nome.
+// c. Classificar por ordem alfab;etica os registros cadastrados.
+// d. Apresentar todos os registros.
+// e. Sair do programa de cadastro.

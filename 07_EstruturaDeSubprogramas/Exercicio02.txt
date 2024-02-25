@@ -1,0 +1,7 @@
+// Crie um programa de computador que armazene o nome e as notas bimestrais de 20 alunos do curso de Técnicas de Programação que execute as seguintes etapas:
+// a. Cadastrar os 20 registros (após o cadastro, fazer a calssificação por nome)
+// b. Pesquisar os 20 registros, um de cada vez, pelo campo nome (usar o método de binário; nesse pesquisa, o programa deve também apresentar a média do aluno e as mesagens "Aprovado", caso a média seja maior ou igual a 5, ou "Reprovado" para média abaixo e 5).
+// c. Apresentar todos os registros e as médias dos alunos aprovados.
+// d. Apresetnar apenas os registros e as médias dos alunos aprovados.
+// e. Apresentar apenas os registros e as médias dos alunos reprovados.
+// f. Sair do programa de cadastro.
