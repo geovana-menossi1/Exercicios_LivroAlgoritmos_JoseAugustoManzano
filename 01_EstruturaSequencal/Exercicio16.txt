@@ -1,1 +1,6 @@
-// Elaborar um programa que leia o valor numérico correspondente ao salário mensal de um trabalhador e da porcentagem de aumento do salário. Apresentar a valor do novo salário de do aumento concedido.
+// Exercício 16: Cálculo do Novo Salário com Aumento
+// Escreva um programa que leia o valor numérico correspondente ao salário mensal de um trabalhador e a porcentagem de aumento do salário. Apresente o valor do novo salário e do aumento concedido.
+
+// Exemplo:
+// Entrada: Salário = 1000, Aumento = 10%
+// Saída: Novo salário: 1100, Aumento concedido: 100

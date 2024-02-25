@@ -1,0 +1,7 @@
+// Exercício 84: Construção de uma Segunda Matriz a partir de um Vetor
+// Escreva um programa que leia um vetor com seis elementos do tipo real. Construa uma segunda matriz em que cada posição de índice par no primeiro vetor deve ser atribuído às índices impares e os índices ímpares do primeiro vetor nos índices pares do segundo.
+
+// Exemplo:
+// Entrada: Vetor: 1.0, 2.0, 3.0, 4.0, 5.0, 6.0
+// Saída: Vetor original: 1.0, 2.0, 3.0, 4.0, 5.0, 6.0
+//        Vetor resultante: 2.0, 1.0, 4.0, 3.0, 6.0, 5.0

@@ -1,0 +1,7 @@
+// Exercício 62: Multiplicação de Elementos de uma Matriz por 3
+// Escreva um programa que leia oito elementos inteiros e construa uma segunda matriz com os elementos da primeira matriz multiplicados por 3.
+
+// Exemplo:
+// Entrada: 1, 2, 3, 4, 5, 6, 7, 8
+// Saída: Matriz original: 1, 2, 3, 4, 5, 6, 7, 8
+//        Matriz multiplicada por 3: 3, 6, 9, 12, 15, 18, 21, 24

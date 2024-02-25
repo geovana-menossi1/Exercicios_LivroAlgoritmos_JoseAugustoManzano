@@ -1,0 +1,15 @@
+// Exercício 89: Leitura e Apresentação de Matriz
+// Elaborar um programa que leia 20 elementos para uma matriz com quatro linhas e cinco colunas.
+// Em seguida, apresentar a matriz.
+
+// Exemplo:
+// Entrada:
+// Matriz: [1,  2,  3,  4,  5,
+//          6,  7,  8,  9, 10,
+//         11, 12, 13, 14, 15,
+//         16, 17, 18, 19, 20]
+// Saída:
+// Matriz: [1,  2,  3,  4,  5,
+//          6,  7,  8,  9, 10,
+//         11, 12, 13, 14, 15,
+//         16, 17, 18, 19, 20]

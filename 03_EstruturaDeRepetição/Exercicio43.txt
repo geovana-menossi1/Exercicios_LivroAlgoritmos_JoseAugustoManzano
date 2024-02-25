@@ -1,0 +1,6 @@
+// Exercício 43: Tabuada de um Número
+// Escreva um programa que mostre os resultados da tabuada de um número qualquer.
+
+// Exemplo:
+// Tabuada do 5:
+// Saída: 5 x 1 = 5, 5 x 2 = 10, ..., 5 x 10 = 50

@@ -1,0 +1,5 @@
+// Exercício 48: Potências de 3
+// Escreva um programa que apresente os resultados das potências do valor de base 3, elevado a um expoente de 0 a 15.
+
+// Exemplo:
+// Saída: 3¹ = 3, 3² = 9, 3³ = 27, ..., 3¹⁵ = 14348907

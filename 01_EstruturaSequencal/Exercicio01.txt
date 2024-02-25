@@ -1,1 +1,7 @@
-// Ler a temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit.
+// Exercício 1: Conversor de Temperatura
+// Escreva um programa que converta a temperatura de Celsius para Fahrenheit.
+// Dica: Use a fórmula F = C * 9/5 + 32, onde F é a temperatura em Fahrenheit e C é a temperatura em Celsius.
+
+// Exemplo:
+// Entrada: 25 (temperatura em graus Celsius)
+// Saída: 77.0 (temperatura em graus Fahrenheit)

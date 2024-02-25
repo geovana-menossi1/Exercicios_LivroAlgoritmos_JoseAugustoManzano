@@ -1,1 +1,8 @@
-// Efetuar o cálculo da quantidade de litros de combustível gasta em uma viagem, utilizando um automóvel que faz 12 quilômetros por litro.
+// Exercício 4: Cálculo da Quantidade de Combustível Gasta em uma Viagem
+// Escreva um programa que calcule e apresente a quantidade de litros de combustível gasta em uma viagem,
+// utilizando um automóvel que faz 12 quilômetros por litro.
+// Dica: Use a fórmula litros = distância / consumo, onde distância é a distância percorrida em quilômetros e consumo é o consumo do veículo em quilômetros por litro.
+
+// Exemplo:
+// Entrada: distância = 240 km
+// Saída: 20 litros (quantidade de combustível gasta na viagem)

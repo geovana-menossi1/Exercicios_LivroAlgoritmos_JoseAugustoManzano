@@ -1,0 +1,7 @@
+// Exercício 65: Fatorial de Elementos de uma Matriz
+// Escreva um programa que leia uma matriz com 15 elementos inteiros. Construa uma segunda matriz em que cada elemento da segunda matriz deve ser o resultado da fatorial do elemento correspondente de cada elemento do primeiro vetor.
+
+// Exemplo:
+// Entrada: 1, 2, 3, ..., 15
+// Saída: Matriz original: 1, 2, 3, ..., 15
+//        Matriz dos fatoriais: 1, 2, 6, ..., 1307674368000

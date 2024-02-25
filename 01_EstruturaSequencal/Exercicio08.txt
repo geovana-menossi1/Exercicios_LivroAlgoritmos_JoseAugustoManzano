@@ -1,1 +1,7 @@
-// Elaborar um programa que calcule e apresente o valor do volume de uma caixa retangular.
+// Exercício 8: Cálculo do Volume de uma Caixa Retangular
+// Escreva um programa que calcule e apresente o valor do volume de uma caixa retangular.
+// Dica: Use a fórmula volume = comprimento * largura * altura, onde comprimento, largura e altura são as dimensões da caixa.
+
+// Exemplo:
+// Entrada: comprimento = 5, largura = 3, altura = 2
+// Saída: 30 (volume da caixa retangular)

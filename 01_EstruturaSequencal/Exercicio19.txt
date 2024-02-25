@@ -1,1 +1,6 @@
-// Elaborar um programa que leia dois valores numéricos e calculas as quatro operações básicas.
+// Exercício 19: Cálculo das Quatro Operações Básicas
+// Escreva um programa que leia dois valores numéricos e calcule as quatro operações básicas (adição, subtração, multiplicação e divisão).
+
+// Exemplo:
+// Entrada: 10, 5
+// Saída: Adição: 10 + 5 = 15; Subtração: 10 - 5 = 5; Multiplicação: 10 * 5 = 50; Divisão: 10 / 5 = 2

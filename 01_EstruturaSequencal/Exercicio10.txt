@@ -1,1 +1,6 @@
-// Ler dois valores numéricos inteiros e calcular a diferença do primeiro pelo segundo.
+// Exercício 10: Cálculo da Diferença entre Dois Números Inteiros
+// Escreva um programa que leia dois valores numéricos inteiros e calcule a diferença do primeiro pelo segundo.
+
+// Exemplo:
+// Entrada: 10, 5
+// Saída: 5 (10 - 5)

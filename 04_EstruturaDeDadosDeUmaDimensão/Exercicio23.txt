@@ -1,1 +1,0 @@
-// w. Elaborar um programa que leia dois vetores com valores inteiros com dez elementos cada. Construir um terceiro vetor formado pelo quadrado da soma dos elementos corresponde nos dois primeiros vetores.

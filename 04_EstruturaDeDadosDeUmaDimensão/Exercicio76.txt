@@ -1,0 +1,7 @@
+// Exercício 76: Manipulação de Elementos de um Vetor
+// Escreva um programa que leia um vetor de 12 elementos inteiros. Construa uma segunda matriz com a seguinte lei de formação: todo elemento da primeira matriz que for ímpar deve ser multiplicado por 2; caso contrário, o elemento da matriz deve permanecer constante. Apresente os elementos dos vetores.
+
+// Exemplo:
+// Entrada: 1, 2, 3, ..., 12
+// Saída: Vetor original: 1, 2, 3, ..., 12
+//        Vetor resultante: 2, 2, 6, ..., 12

@@ -1,0 +1,6 @@
+// Exercício 40: Soma e Verificação
+// Escreva um programa que leia três valores desconhecidos, some-os e apresente o resultado apenas se a soma for maior que 100.
+
+// Exemplo:
+// Entrada: 50, 30, 40
+// Saída: 120

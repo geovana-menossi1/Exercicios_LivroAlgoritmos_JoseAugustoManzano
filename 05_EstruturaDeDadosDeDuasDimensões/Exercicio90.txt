@@ -1,0 +1,18 @@
+// Exercício 90: Manipulação de Matrizes
+// Elaborar um programa que leia uma matriz de uma dimensão com dez elementos.
+// Construir uma segunda matriz com três colunas de dez linhas sendo a primeira coluna formada pelos elementos da primeira matriz somados com 5,
+// a segunda formada pelo cálculo do fatorial de cada elemento correspondente na primeira matriz
+// e a terceira coluna formada pelo quadrado dos elementos da primeira.
+
+// Exemplo:
+// Entrada: Matriz 1: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// Saída: Matriz Resultante: [6, 1, 1,
+//                             7, 2, 4,
+//                             8, 6, 9,
+//                             9, 24, 16,
+//                             10, 120, 25,
+//                             11, 720, 36,
+//                             12, 5040, 49,
+//                             13, 40320, 64,
+//                             14, 362880, 81,
+//                             15, 3628800, 100]

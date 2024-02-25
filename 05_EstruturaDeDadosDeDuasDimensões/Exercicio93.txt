@@ -1,0 +1,13 @@
+// Exercício 93: Conversão de Temperaturas
+// Elaborar um programa que leia uma matriz com quatro linhas e cinco colunas, contendo temperaturas em Celsius, e então crie uma segunda matriz com os valores de cada elemento da primeira matriz convertidos em Fahrenheit.
+
+// Exemplo:
+// Entrada: Matriz: [0, 10, 20, 30, 40,
+//                    5, 15, 25, 35, 45,
+//                   10, 20, 30, 40, 50,
+//                   15, 25, 35, 45, 55]
+
+// Saída:   Matriz Fahrenheit: [32, 50, 68, 86, 104,
+//                                41, 59, 77, 95, 113,
+//                                50, 68, 86, 104, 122,
+//                                59, 77, 95, 113, 131]

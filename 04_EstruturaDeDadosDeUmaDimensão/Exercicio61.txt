@@ -1,0 +1,6 @@
+// Exercício 61: Leitura e Apresentação de Nomes
+// Escreva um programa que efetue a leitura de dez nomes e os apresente em seguida.
+
+// Exemplo:
+// Entrada: Ana, Maria, João, ...
+// Saída: Nomes lidos: Ana, Maria, João, ...

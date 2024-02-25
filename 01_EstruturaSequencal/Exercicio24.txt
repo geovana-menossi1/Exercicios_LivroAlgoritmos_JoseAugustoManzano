@@ -1,1 +1,7 @@
-// Construir um programa que leia um valor numérico inteiro e apresente seu sucesso e antecessor.
+// Exercício 24: Cálculo de Raiz
+// Escreva um programa que calcule e armazene uma raiz de base qualquer com índice qualquer.
+
+// Exemplo:
+// Calcular a raiz quadrada de 16:
+// Entrada: base = 16, índice = 2
+// Saída: 4.0 (raiz quadrada de 16 é 4)

@@ -1,1 +1,7 @@
-// Efetuar a leitura de uma valor numérico inteiro e apresentar o resultado do valor lido elevado ao quadrado.
+// Exercício 9: Cálculo do Quadrado de um Número Inteiro
+// Escreva um programa que efetue a leitura de um valor numérico inteiro e apresente o resultado do valor lido elevado ao quadrado.
+// Dica: Use a operação de potência para elevar um número ao quadrado.
+
+// Exemplo:
+// Entrada: 5
+// Saída: 25 (5 elevado ao quadrado)

@@ -1,0 +1,20 @@
+// Exercício 91: Manipulação de Matrizes
+// Elaborar um programa que leia duas matrizes com uma linha de doze colunas.
+// Construir uma terceira matriz onde a primeira coluna é constituída dos elementos da primeira matriz multiplicados por 2
+// e a segunda coluna dos elementos da segunda matriz subtraídos de 5. Apresentar as três matrizes.
+
+// Exemplo:
+// Entrada: Matriz 1: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+//          Matriz 2: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+// Saída: Matriz Resultante: [2, 8,
+//                             4, 9,
+//                             6, 10,
+//                             8, 11,
+//                             10, 12,
+//                             12, 13,
+//                             14, 14,
+//                             16, 15,
+//                             18, 16,
+//                             20, 17,
+//                             22, 18,
+//                             24, 19]

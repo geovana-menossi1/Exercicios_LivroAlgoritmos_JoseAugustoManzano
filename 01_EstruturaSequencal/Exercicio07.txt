@@ -1,1 +1,7 @@
-// Ler quatro valores numéricos inteiros e apresentar os resultados das adições e multiplicações dos quatro números ente si.
+// Exercício 7: Adição e Multiplicação de Quatro Números Inteiros
+// Escreva um programa que leia quatro valores numéricos inteiros e apresente os resultados das adições e multiplicações dos quatro números entre si.
+
+// Exemplo:
+// Entrada: 1, 2, 3, 4
+// Saída: Adições: 1+2=3, 1+3=4, 1+4=5, 2+3=5, 2+4=6, 3+4=7
+//        Multiplicações: 1*2=2, 1*3=3, 1*4=4, 2*3=6, 2*4=8, 3*4=12

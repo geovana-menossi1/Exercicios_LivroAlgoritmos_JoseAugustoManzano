@@ -1,1 +1,7 @@
-// Elaborar um programa que leia uma medida em pés e realize a conversão para metros.
+// Exercício 22: Cálculo do Volume de uma Esfera
+// Escreva um programa que calcule e apresente o valor do volume de uma esfera.
+// Dica: Use a fórmula volume = (4/3) * π * raio³, onde π é aproximadamente 3.14159 e raio é o raio da esfera.
+
+// Exemplo:
+// Entrada: raio = 5
+// Saída: 523.6 (volume da esfera)

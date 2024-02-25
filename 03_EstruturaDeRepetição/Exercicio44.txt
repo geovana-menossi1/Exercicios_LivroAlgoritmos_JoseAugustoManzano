@@ -1,0 +1,5 @@
+// Contruir um programa que apresente a soma dos cem primeiros números naturais// Exercício 44: Soma dos Cem Primeiros Números Naturais
+// Escreva um programa que apresente a soma dos cem primeiros números naturais.
+
+// Exemplo:
+// Saída: 5050 (1 + 2 + 3 + ... + 100)

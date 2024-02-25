@@ -1,0 +1,6 @@
+// Exercício 54: Somatório e Média de Dez Valores
+// Escreva um programa que leia dez valores numéricos reais e apresente no final o somatório e a média dos valores lidos.
+
+// Exemplo:
+// Entrada: 1.5, 2.5, 3.5, ..., 10.5
+// Saída: Somatório: 55, Média: 5.5

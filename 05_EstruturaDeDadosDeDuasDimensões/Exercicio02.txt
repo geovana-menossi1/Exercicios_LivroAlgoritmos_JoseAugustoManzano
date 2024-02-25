@@ -1,1 +1,0 @@
-// b. Elaborar um programa que leia duas matrizes um uma linha e sete colunas, para receber números inteiros. Construir uma terceira matriz cuja primeira coluna deve ser formada pelos elementos da matriz A e o segunda pelos elementos da segunda.

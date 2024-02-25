@@ -1,0 +1,9 @@
+// Exercício 81: Junção de Vetores com Validação de Entrada
+// Escreva um programa que leia dois vetores. O primeiro vetor deve aceitar apenas a entrada de valores divisíveis por 2 ou 3, enquanto o segundo vetor deve aceitar apenas a entrada de valores que não sejam múltiplos de 5. A entrada deve ser validada pelo programa. Construa um terceiro vetor que seja a junção dos outros dois. Apresente os três vetores.
+
+// Exemplo:
+// Entrada: Vetor 1: 6, 12, 18, ..., 30
+//          Vetor 2: 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, ...
+// Saída: Vetor 1: 6, 12, 18, ..., 30
+//        Vetor 2: 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, ...
+//        Vetor 3: 6, 12, 18, ..., 30, 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, ...

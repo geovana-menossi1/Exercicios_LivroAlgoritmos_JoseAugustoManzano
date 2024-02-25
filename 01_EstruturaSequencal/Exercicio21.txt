@@ -1,1 +1,6 @@
-// Elaborar um programa de computador que calcule e apresente o valor do volume de uma esfera.
+// Exercício 21: Cálculo de Potência
+// Escreva um programa que leia dois valores numéricos inteiros, os quais devem representar a base e o expoente de uma potência, calcule a potência e apresente o resultado obtido.
+
+// Exemplo:
+// Entrada: base = 2, expoente = 3
+// Saída: 8 (2 elevado a 3 é igual a 8)

@@ -1,0 +1,11 @@
+// Exercício 69: Junção de Três Vetores
+// Escreva um programa que leia três vetores com cinco elementos cada que sejam do tipo inteiro. Construa um quarto vetor como resultado da junção das três primeiras. Apresente os elementos dos três vetores.
+
+// Exemplo:
+// Entrada: Vetor 1: 1, 2, 3, 4, 5
+//          Vetor 2: 6, 7, 8, 9, 10
+//          Vetor 3: 11, 12, 13, 14, 15
+// Saída: Vetor 1: 1, 2, 3, 4, 5
+//        Vetor 2: 6, 7, 8, 9, 10
+//        Vetor 3: 11, 12, 13, 14, 15
+//        Vetor resultado (junção): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15

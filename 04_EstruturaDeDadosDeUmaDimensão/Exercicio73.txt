@@ -1,0 +1,6 @@
+// Exercício 73: Tabuada em um Vetor
+// Escreva um programa que calcule a tabuada de um valor qualquer de 1 até 10 e armazene os resultados em um vetor. Apresente os elementos do vetor.
+
+// Exemplo:
+// Entrada: Valor da tabuada: 5
+// Saída: Tabuada do 5: 5, 10, 15, ..., 50

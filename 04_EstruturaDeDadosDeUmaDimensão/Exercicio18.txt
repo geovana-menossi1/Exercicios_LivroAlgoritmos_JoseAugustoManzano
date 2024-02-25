@@ -1,1 +1,0 @@
-//r. Elaborar um programa que leia seis elementos (valores inteiros) para duas matrizes. Construir outras duas matrizes onde uma é formadas pelos elementos de índices par dos dois primeiros vetores e a outra com os elementos do índices impares.

@@ -1,0 +1,5 @@
+// Exercício 60: Quadrados dos Valores Inteiros de 15 a 200 Contando de 3 em 3
+// Escreva um programa que apresente os quadrados dos valores inteiros existentes entre os números 15 e 200 contando de 3 em 3.
+
+// Exemplo:
+// Saída: 225, 256, 289, ..., 39601, 40000

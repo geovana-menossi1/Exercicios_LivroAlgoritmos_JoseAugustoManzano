@@ -1,1 +1,6 @@
-// Elaborar um programa que leia quatro valores numéricos, e calcule o produto do primeiro com o terceiro e a soma do segundo com o quarto.
+// Exercício 15: Cálculo do Produto e da Soma de Quatro Números
+// Escreva um programa que leia quatro valores numéricos e calcule o produto do primeiro com o terceiro e a soma do segundo com o quarto.
+
+// Exemplo:
+// Entrada: 2, 3, 4, 5
+// Saída: Produto: 8 (2 * 4), Soma: 8 (3 + 5)

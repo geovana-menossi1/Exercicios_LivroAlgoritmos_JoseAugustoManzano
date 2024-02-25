@@ -1,0 +1,6 @@
+// Exercício 27: Cálculo da Diferença entre Dois Números Inteiros
+// Escreva um programa que leia dois valores numéricos inteiros e apresente o resultado da diferença entre o maior e o menor valor.
+
+// Exemplo:
+// Entrada: 10, 5
+// Saída: 5 (10 - 5)

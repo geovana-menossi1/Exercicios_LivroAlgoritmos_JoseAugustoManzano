@@ -1,1 +1,0 @@
-// g. Elaborar um programa que leia dois vetores para armazenar nome de pessoas, sendo a primeira com 20 elementos e a segunda com 30 elementos. Construir um terceiro vetor da com a junção das duas primeiras.

@@ -1,0 +1,6 @@
+// Exercício 59: Divisão Inteira Sem Usar o Operador de Divisão
+// Escreva um programa que apresente o resultado inteiro da divisão de dois números quaisquer sem utilizar o operador aritmético da divisão.
+
+// Exemplo:
+// Entrada: 10, 3
+// Saída: Resultado da divisão: 3

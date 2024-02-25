@@ -1,0 +1,5 @@
+// Exercício 42: Quadrados na Faixa de Valores
+// Escreva um programa que apresente como resultado os quadrados dos números inteiros existentes na faixa de valores de 15 a 200.
+
+// Exemplo:
+// Saída: 225, 256, 289, ..., 39601, 40000

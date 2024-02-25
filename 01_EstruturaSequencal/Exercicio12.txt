@@ -1,1 +1,7 @@
-// Elaborar um programa que apresente o valor da conversão em dólar (US$) de um valor lido em real (R$).
+// Exercício 12: Conversão de Real para Dólar
+// Escreva um programa que leia um valor em real (R$) e apresente o valor da conversão em dólar (US$), considerando a cotação do dólar.
+// Dica: Use a cotação atual do dólar para realizar a conversão.
+
+// Exemplo:
+// Entrada: 100 (valor em real)
+// Saída: 17.86 (valor em dólar, considerando a cotação de 5.60)

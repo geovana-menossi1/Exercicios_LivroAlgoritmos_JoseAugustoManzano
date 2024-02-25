@@ -1,0 +1,6 @@
+// Exercício 25: Sucessor e Antecessor de um Número Inteiro
+// Escreva um programa que leia um valor numérico inteiro e apresente seu sucessor e antecessor.
+
+// Exemplo:
+// Entrada: 5
+// Saída: Sucessor: 6, Antecessor: 4

@@ -1,1 +1,0 @@
-// x. Escrever um programa que leia uma matriz com 15 elementos números inteiros e apresentar o total de elemento pares existentes nesse vetor.

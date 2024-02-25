@@ -1,1 +1,7 @@
-// Ler dois valores para as variáveis A e B e efetuar a troca dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável. Apresentar os valores antes e após a efetivação do processamento da troca.
+// Exercício 6: Troca de Valores entre Variáveis
+// Escreva um programa que leia dois valores para as variáveis A e B e efetue a troca dos valores, de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresente os valores antes e após a efetivação do processo de troca.
+// Dica: Use uma variável temporária para armazenar um dos valores durante a troca.
+
+// Exemplo:
+// Entrada: A = 5, B = 10
+// Saída: Antes da troca - A = 5, B = 10; Após a troca - A = 10, B = 5

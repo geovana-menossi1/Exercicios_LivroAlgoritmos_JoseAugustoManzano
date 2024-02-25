@@ -1,0 +1,7 @@
+// Exercício 71: Vetor com Valores Negativos
+// Escreva um programa que leia uma matriz A do tipo vetor com dez elementos inteiros positivos. Construa um segundo vetor em que cada elemento deve ser o valor negativo do elemento correspondente do primeiro vetor.
+
+// Exemplo:
+// Entrada: 1, 2, 3, ..., 10
+// Saída: Vetor original: 1, 2, 3, ..., 10
+//        Vetor com valores negativos: -1, -2, -3, ..., -10

@@ -1,0 +1,7 @@
+// Exercício 63: Subtração de Elementos de Matrizes
+// Escreva um programa que leia duas matrizes com 20 elementos reais. Construa uma terceira matriz onde cada elemento deve ser a subtração do elemento de mesma posição das duas primeiras matrizes.
+
+// Exemplo:
+// Entrada: Matriz 1: 1, 2, 3, ..., 20
+//          Matriz 2: 5, 4, 3, ..., 2
+// Saída: Matriz subtraída: -4, -2, 0, ..., 18

@@ -1,1 +1,7 @@
-// Elaborar um programa que calcule e armazene uma raiz de base qualquer com índice qualquer.
+// Exercício 23: Conversão de Pés para Metros
+// Escreva um programa que leia uma medida em pés e realize a conversão para metros.
+// Dica: Use a fórmula metros = pés * 0.3048, onde pés é a medida em pés e metros é a medida equivalente em metros.
+
+// Exemplo:
+// Entrada: 10 (medida em pés)
+// Saída: 3.048 (medida equivalente em metros)

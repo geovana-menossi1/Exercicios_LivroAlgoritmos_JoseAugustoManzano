@@ -1,1 +1,0 @@
-// u. Elaborar um programa que leia dois vetor. A primeira matriz deve aceitar apenas a entrada de valores divisíveis por 2 ou 3, enquanto o segundo vetor deve aceitar apenas a entrada de valores que não sejam múltiplos de 5. A entrada deve ser validade pelo programa. Construir uma terceiro vetor que seja a junção dos outros dois. Apresentas os três vetores.

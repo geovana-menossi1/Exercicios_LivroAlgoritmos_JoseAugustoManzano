@@ -1,1 +1,7 @@
-// Construir um programa que calcule em metros por segundo o valor da velocidade de um projétil que percorre uma distância em quilômetros um espaço de tempo em horas.
+// Exercício 20: Cálculo da Velocidade de um Projétil
+// Escreva um programa que calcule em metros por segundo o valor da velocidade de um projétil que percorre uma distância em quilômetros em um espaço de tempo em horas.
+// Dica: Para converter quilômetros por hora para metros por segundo, divida o valor em quilômetros por hora por 3.6.
+
+// Exemplo:
+// Entrada: Distância = 100 km, Tempo = 2 horas
+// Saída: Velocidade = 27.78 m/s

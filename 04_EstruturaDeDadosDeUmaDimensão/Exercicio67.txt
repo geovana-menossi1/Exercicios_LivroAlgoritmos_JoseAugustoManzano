@@ -1,0 +1,7 @@
+// Exercício 67: Junção de Dois Vetores de Nomes
+// Escreva um programa que leia dois vetores para armazenar nome de pessoas, sendo a primeira com 20 elementos e a segunda com 30 elementos. Construa um terceiro vetor com a junção das duas primeiras.
+
+// Exemplo:
+// Entrada: Vetor 1: Ana, Maria, João, ..., (20 nomes)
+//          Vetor 2: Pedro, Alice, Carlos, ..., (30 nomes)
+// Saída: Vetor 3 (junção): Ana, Maria, João, ..., Pedro, Alice, Carlos, ...

@@ -1,1 +1,0 @@
-// e. Elaborar um programa que leia duas matrizes com uma linha de doze colunas. Construir uma terceira matriz onde a primeira coluna é constituída dos elementos da primeira matriz multiplicado e por 2 e a segunda coluna dos elementos da segunda matriz subtraídos de 5. Apresentar as três matrizes.

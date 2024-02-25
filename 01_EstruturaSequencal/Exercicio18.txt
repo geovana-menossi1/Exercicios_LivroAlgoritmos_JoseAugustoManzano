@@ -1,1 +1,6 @@
-// Em uma eleição sindical concorreram ao cargo de presidente três candidatos. Duranta a apuração ds votos foram computados votos nulos e em branco, além dos votos válidos para cada candidato. Deve ser criado um programa de computador que faça a leitura da quantidade de votos válidos para cada candidato, além de let também a quantidade de votos nulos e em branco. Ao final, o programa deve apresentar o número total de eleitores, considerando os votos válidos, nulos e em branco; o percentual corresponde de votos válidos dos candidatos e de votos brancos e nulos.
+// Exercício 18: Apuração de Votos em uma Eleição Sindical
+// Escreva um programa que faça a leitura da quantidade de votos válidos para cada candidato, além da quantidade de votos nulos e em branco. Ao final, o programa deve apresentar o número total de eleitores, considerando os votos válidos, nulos e em branco; o percentual correspondente de votos válidos dos candidatos e de votos brancos e nulos.
+
+// Exemplo:
+// Entrada: Votos válidos para o candidato 1 = 200, candidato 2 = 150, candidato 3 = 100; Votos nulos = 50; Votos em branco = 30
+// Saída: Total de eleitores: 530; Percentual de votos válidos: candidato 1 = 37.74%, candidato 2 = 28.30%, candidato 3 = 18.87%; Percentual de votos nulos: 9.43%; Percentual de votos em branco: 5.66%

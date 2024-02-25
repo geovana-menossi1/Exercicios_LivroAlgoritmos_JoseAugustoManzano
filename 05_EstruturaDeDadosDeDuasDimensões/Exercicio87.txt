@@ -1,0 +1,24 @@
+// Exercício 87: Soma de Matrizes
+// Elaborar um programa que leia duas matrizes, cada uma com cinco linhas e três colunas para valores inteiros.
+// Construir uma terceira matriz com as mesmas dimensões que seja formada pela soma dos elementos da primeira e segunda matriz.
+
+// Exemplo:
+// Entrada:
+// Matriz 1: [1,  2,  3,
+//            4,  5,  6,
+//            7,  8,  9,
+//           10, 11, 12,
+//           13, 14, 15]
+
+// Matriz 2: [15, 14, 13,
+//            12, 11, 10,
+//             9,  8,  7,
+//             6,  5,  4,
+//             3,  2,  1]
+
+// Saída:
+// Matriz Resultante: [16, 16, 16,
+//                     16, 16, 16,
+//                     16, 16, 16,
+//                     16, 16, 16,
+//                     16, 16, 16]

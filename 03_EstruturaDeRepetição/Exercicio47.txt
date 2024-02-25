@@ -1,0 +1,5 @@
+// Exercício 47: Valores Divisíveis por 4 Menores que 200
+// Escreva um programa que apresente todos os valores numéricos divisíveis por 4 e menores que 200.
+
+// Exemplo:
+// Saída: 4, 8, 12, ..., 196

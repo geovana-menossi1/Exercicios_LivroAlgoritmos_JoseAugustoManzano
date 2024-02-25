@@ -1,0 +1,6 @@
+// Exercício 85: Contagem de Números Pares em uma Matriz
+// Escreva um programa que leia uma matriz com 15 elementos números inteiros e apresente o total de elementos pares existentes nesse vetor.
+
+// Exemplo:
+// Entrada: Matriz: 1, 2, 3, ..., 15
+// Saída: Total de números pares: x

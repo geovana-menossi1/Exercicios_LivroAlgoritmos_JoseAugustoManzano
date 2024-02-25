@@ -1,0 +1,6 @@
+// Exercício 49: Potência de uma Base Elevada a um Expoente
+// Escreva um programa que apresente como resultado a potência de uma base qualquer elevada a um expoente qualquer.
+
+// Exemplo:
+// Base: 3, Expoente: 3
+// Saída: 3³ = 27

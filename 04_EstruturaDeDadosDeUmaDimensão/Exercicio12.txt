@@ -1,1 +1,0 @@
-// l. Elaborar um programa que leia um vetor com dez elementos inteiros. Construir uma segunda matriz em que cada elemento deve ser a metade exata de cada um dos elementos existentes na primeira matriz. Apresentar os elementos de ambas os vetores.

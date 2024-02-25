@@ -1,0 +1,5 @@
+// Exercício 50: Sequência de Fibonacci
+// Escreva um programa que apresente os valores da sequência numérica de Fibonacci até o décimo quinto termo.
+
+// Exemplo:
+// Saída: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377

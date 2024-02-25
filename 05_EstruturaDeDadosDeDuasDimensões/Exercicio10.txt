@@ -1,1 +1,0 @@
-// j. Elaborar um programa que leia uma matriz de  com seis linhas e cinco colunas. Construir uma segunda matriz de mesma dimensão, que deve ser formada do seguinte modo: para cada elemento par da primeira matriz deve ser somado 5 e de cada elemento ímpar deve ser subtraído 4. Apresentar ao final as matrizes. (posições [1,1], [2,2], [3,3], [4,4] e [5,5])

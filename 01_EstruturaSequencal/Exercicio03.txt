@@ -1,1 +1,7 @@
-// Calcular e apresentar o valor do volume de uma lata de óleo.
+// Exercício 3: Cálculo do Volume de uma Lata de Óleo
+// Escreva um programa que calcule e apresente o valor do volume de uma lata de óleo.
+// Dica: Use a fórmula V = π * raio² * altura, onde V é o volume, raio é o raio da base da lata e altura é a altura da lata.
+
+// Exemplo:
+// Entrada: raio = 5 cm, altura = 10 cm
+// Saída: 785.4 cm³ (volume da lata de óleo)

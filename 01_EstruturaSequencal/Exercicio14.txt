@@ -1,1 +1,6 @@
-// Construir um programa que leia três números e calcula o valor do quadrado das somas dos três números.
+// Exercício 14: Cálculo do Quadrado da Soma de Três Números
+// Escreva um programa que leia três valores numéricos e calcule o valor do quadrado da soma desses números.
+
+// Exemplo:
+// Entrada: 2, 3, 4
+// Saída: 81 ((2 + 3 + 4)² = 9² = 81)
