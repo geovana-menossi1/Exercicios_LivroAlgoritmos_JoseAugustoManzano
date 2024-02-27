@@ -2,6 +2,14 @@
 // Escreva um programa que leia uma medida em pés e realize a conversão para metros.
 // Dica: Use a fórmula metros = pés * 0.3048, onde pés é a medida em pés e metros é a medida equivalente em metros.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 10 (medida em pés)
 // Saída: 3.048 (medida equivalente em metros)
+
+// Exemplo 2:
+// Entrada: 20 (medida em pés)
+// Saída: 6.096 (medida equivalente em metros)
+
+// Exemplo 3:
+// Entrada: 5 (medida em pés)
+// Saída: 1.524 (medida equivalente em metros)

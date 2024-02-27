@@ -2,6 +2,14 @@
 // Escreva um programa que calcule e apresente o valor de uma prestação em atraso, considerando uma taxa de juros de 1% ao mês.
 // Dica: Use a fórmula valor = valor_original * (1 + (taxa_juros / 100) * meses_atraso), onde valor_original é o valor da prestação sem os juros, taxa_juros é a taxa de juros mensal e meses_atraso é o número de meses em atraso.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: valor_original = 1000, meses_atraso = 3
 // Saída: 1030 (valor da prestação em atraso)
+
+// Exemplo 2:
+// Entrada: valor_original = 500, meses_atraso = 2
+// Saída: 510 (valor da prestação em atraso)
+
+// Exemplo 3:
+// Entrada: valor_original = 1500, meses_atraso = 5
+// Saída: 1575 (valor da prestação em atraso)

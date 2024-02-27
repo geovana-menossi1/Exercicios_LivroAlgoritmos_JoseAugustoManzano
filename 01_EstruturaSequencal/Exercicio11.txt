@@ -2,6 +2,14 @@
 // Escreva um programa que leia um valor em dólar (US$) e apresente o valor da conversão em real (R$), considerando a cotação do dólar.
 // Dica: Use a cotação atual do dólar para realizar a conversão.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 50 (valor em dólar)
 // Saída: 280.0 (valor em real, considerando a cotação de 5.60)
+
+// Exemplo 2:
+// Entrada: 100 (valor em dólar)
+// Saída: 560.0 (valor em real, considerando a cotação de 5.60)
+
+// Exemplo 3:
+// Entrada: 20 (valor em dólar)
+// Saída: 112.0 (valor em real, considerando a cotação de 5.60)

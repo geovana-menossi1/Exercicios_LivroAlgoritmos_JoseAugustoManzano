@@ -1,6 +1,14 @@
 // Exercício 19: Cálculo das Quatro Operações Básicas
 // Escreva um programa que leia dois valores numéricos e calcule as quatro operações básicas (adição, subtração, multiplicação e divisão).
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 10, 5
 // Saída: Adição: 10 + 5 = 15; Subtração: 10 - 5 = 5; Multiplicação: 10 * 5 = 50; Divisão: 10 / 5 = 2
+
+// Exemplo 2:
+// Entrada: -3, 8
+// Saída: Adição: -3 + 8 = 5; Subtração: -3 - 8 = -11; Multiplicação: -3 * 8 = -24; Divisão: -3 / 8 = -0.375
+
+// Exemplo 3:
+// Entrada: 7, 3
+// Saída: Adição: 7 + 3 = 10; Subtração: 7 - 3 = 4; Multiplicação: 7 * 3 = 21; Divisão: 7 / 3 = 2.3333333333333335

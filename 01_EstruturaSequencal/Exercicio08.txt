@@ -2,6 +2,14 @@
 // Escreva um programa que calcule e apresente o valor do volume de uma caixa retangular.
 // Dica: Use a fórmula volume = comprimento * largura * altura, onde comprimento, largura e altura são as dimensões da caixa.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: comprimento = 5, largura = 3, altura = 2
 // Saída: 30 (volume da caixa retangular)
+
+// Exemplo 2:
+// Entrada: comprimento = 4, largura = 6, altura = 2
+// Saída: 48 (volume da caixa retangular)
+
+// Exemplo 3:
+// Entrada: comprimento = 10, largura = 10, altura = 10
+// Saída: 1000 (volume da caixa retangular)

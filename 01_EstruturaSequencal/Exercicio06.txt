@@ -2,6 +2,14 @@
 // Escreva um programa que leia dois valores para as variáveis A e B e efetue a troca dos valores, de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresente os valores antes e após a efetivação do processo de troca.
 // Dica: Use uma variável temporária para armazenar um dos valores durante a troca.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: A = 5, B = 10
 // Saída: Antes da troca - A = 5, B = 10; Após a troca - A = 10, B = 5
+
+// Exemplo 2:
+// Entrada: A = 7, B = 3
+// Saída: Antes da troca - A = 7, B = 3; Após a troca - A = 3, B = 7
+
+// Exemplo 3:
+// Entrada: A = -2, B = 8
+// Saída: Antes da troca - A = -2, B = 8; Após a troca - A = 8, B = -2

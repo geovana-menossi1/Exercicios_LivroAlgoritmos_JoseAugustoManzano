@@ -1,6 +1,14 @@
 // Exercício 13: Cálculo da Soma dos Quadrados de Três Números
 // Escreva um programa que leia três valores numéricos e calcule o valor da soma dos quadrados desses números.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 2, 3, 4
 // Saída: 29 (2² + 3² + 4² = 4 + 9 + 16 = 29)
+
+// Exemplo 2:
+// Entrada: 1, 5, 6
+// Saída: 62 (1² + 5² + 6² = 1 + 25 + 36 = 62)
+
+// Exemplo 3:
+// Entrada: -3, 0, 2
+// Saída: 13 ((-3)² + 0² + 2² = 9 + 0 + 4 = 13)

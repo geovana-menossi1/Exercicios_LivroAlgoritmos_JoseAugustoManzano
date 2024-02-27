@@ -2,6 +2,14 @@
 // Escreva um programa que calcule e apresente o valor do volume de uma esfera.
 // Dica: Use a fórmula volume = (4/3) * π * raio³, onde π é aproximadamente 3.14159 e raio é o raio da esfera.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: raio = 5
 // Saída: 523.6 (volume da esfera)
+
+// Exemplo 2:
+// Entrada: raio = 10
+// Saída: 4188.79 (volume da esfera)
+
+// Exemplo 3:
+// Entrada: raio = 2.5
+// Saída: 65.45 (volume da esfera)

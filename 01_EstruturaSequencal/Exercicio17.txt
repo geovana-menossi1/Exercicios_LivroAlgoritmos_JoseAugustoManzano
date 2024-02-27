@@ -2,6 +2,14 @@
 // Escreva um programa que calcule e apresente o valor da área de uma circunferência.
 // Dica: Use a fórmula área = π * raio², onde π é aproximadamente 3.14159 e raio é o raio da circunferência.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: raio = 5
 // Saída: 78.54 (área da circunferência)
+
+// Exemplo 2:
+// Entrada: raio = 10
+// Saída: 314.16 (área da circunferência)
+
+// Exemplo 3:
+// Entrada: raio = 2.5
+// Saída: 19.63 (área da circunferência)

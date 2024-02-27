@@ -1,6 +1,14 @@
 // Exercício 26: Cálculo do Quadrado da Divisão de Dois Números Inteiros
 // Escreva um programa que leia dois valores numéricos inteiros e apresente o resultado inteiro do quadrado da divisão do valor de um número em relação ao valor do segundo número.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 10, 2
 // Saída: 25 (10 / 2 = 5, 5² = 25)
+
+// Exemplo 2:
+// Entrada: 8, 4
+// Saída: 4 (8 / 4 = 2, 2² = 4)
+
+// Exemplo 3:
+// Entrada: 15, 3
+// Saída: 25 (15 / 3 = 5, 5² = 25)

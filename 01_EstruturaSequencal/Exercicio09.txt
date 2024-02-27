@@ -2,6 +2,14 @@
 // Escreva um programa que efetue a leitura de um valor numérico inteiro e apresente o resultado do valor lido elevado ao quadrado.
 // Dica: Use a operação de potência para elevar um número ao quadrado.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 5
 // Saída: 25 (5 elevado ao quadrado)
+
+// Exemplo 2:
+// Entrada: -3
+// Saída: 9 ((-3) elevado ao quadrado)
+
+// Exemplo 3:
+// Entrada: 0
+// Saída: 0 (0 elevado ao quadrado)
