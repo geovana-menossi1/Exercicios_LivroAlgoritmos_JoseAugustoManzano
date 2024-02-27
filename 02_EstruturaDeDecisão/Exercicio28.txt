@@ -1,6 +1,14 @@
 // Exercício 28: Classificação de Número Positivo ou Negativo
 // Escreva um programa que leia um valor numérico inteiro e o classifique como positivo ou negativo.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: -5
 // Saída: Negativo
+
+// Exemplo 2:
+// Entrada: 10
+// Saída: Positivo
+
+// Exemplo 3:
+// Entrada: 0
+// Saída: Neutro (Zero)

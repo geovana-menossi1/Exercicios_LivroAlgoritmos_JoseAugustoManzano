@@ -1,6 +1,14 @@
 // Exercício 41: Multiplicação e Verificação
 // Escreva um programa que leia um número inteiro qualquer e o multiplique por dois. Apresente o resultado da multiplicação somente se o resultado for maior que 30.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 20
 // Saída: 40
+
+// Exemplo 2:
+// Entrada: 15
+// Saída: (Nenhum valor apresentado)
+
+// Exemplo 3:
+// Entrada: 18
+// Saída: 36

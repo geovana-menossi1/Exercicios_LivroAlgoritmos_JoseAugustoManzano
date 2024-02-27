@@ -1,6 +1,14 @@
 // Exercício 38: Verificação de Valor Menor ou Igual a 3
 // Escreva um programa que leia um valor inteiro qualquer e apresente-o caso não seja maior que 3.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 2
 // Saída: 2
+
+// Exemplo 2:
+// Entrada: 5
+// Saída: (Nenhum valor apresentado)
+
+// Exemplo 3:
+// Entrada: 0
+// Saída: 0

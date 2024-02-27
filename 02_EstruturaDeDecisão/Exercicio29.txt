@@ -1,6 +1,14 @@
 // Exercício 29: Cálculo da Média e Verificação de Aprovação
 // Escreva um programa que leia os valores de quatro notas bimestrais de um aluno, calcule a média aritmética e informe se o aluno foi aprovado ou reprovado. A nota para ser aprovado é 5.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 7, 6, 4, 5
 // Saída: Média: 5.5, Aprovado
+
+// Exemplo 2:
+// Entrada: 6, 5, 3, 4
+// Saída: Média: 4.5, Reprovado
+
+// Exemplo 3:
+// Entrada: 8, 7, 6, 8
+// Saída: Média: 7.25, Aprovado

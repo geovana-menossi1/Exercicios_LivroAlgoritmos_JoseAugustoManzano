@@ -1,6 +1,14 @@
 // Exercício 37: Verificação de Faixa de Valor
 // Escreva um programa que leia um valor numérico inteiro que esteja na faixa de valores de 1 até 9. O programa deve apresentar a mensagem informando se o número está na faixa permitida ou não.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 5
+// Saída: Valor está na faixa permitida
+
+// Exemplo 2:
+// Entrada: 10
+// Saída: Valor não está na faixa permitida
+
+// Exemplo 3:
+// Entrada: 3
 // Saída: Valor está na faixa permitida

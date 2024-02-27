@@ -1,6 +1,14 @@
 // Exercício 35: Maior e Menor Valor
 // Escreva um programa que leia cinco valores numéricos inteiros e apresente o maior e o menor valor.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 10, 5, 8, 12, 3
 // Saída: Maior valor: 12, Menor valor: 3
+
+// Exemplo 2:
+// Entrada: -1, -5, -3, -8, -2
+// Saída: Maior valor: -1, Menor valor: -8
+
+// Exemplo 3:
+// Entrada: 100, 200, 150, 300, 250
+// Saída: Maior valor: 300, Menor valor: 100

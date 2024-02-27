@@ -1,6 +1,14 @@
 // Exercício 33: Valores Divisíveis por 2 e 3
 // Escreva um programa que leia quatro valores numéricos inteiros e apresente apenas os valores que sejam divisíveis por 2 e 3.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 6, 8, 9, 12
 // Saída: 6, 12
+
+// Exemplo 2:
+// Entrada: 2, 3, 4, 5
+// Saída: 2, 3
+
+// Exemplo 3:
+// Entrada: 10, 15, 18, 20
+// Saída: 18

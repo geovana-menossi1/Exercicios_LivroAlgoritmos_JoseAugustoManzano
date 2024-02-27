@@ -1,6 +1,14 @@
 // Exercício 36: Par ou Ímpar
 // Escreva um programa que leia um número inteiro e informe se ele é par ou ímpar.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: 7
+// Saída: Ímpar
+
+// Exemplo 2:
+// Entrada: 10
+// Saída: Par
+
+// Exemplo 3:
+// Entrada: -5
 // Saída: Ímpar

@@ -1,6 +1,14 @@
 // Exercício 31: Resolução de Equação de Segundo Grau
 // Escreva um programa que leia três números inteiros "a", "b" e "c" referentes aos valores dos coeficientes da equação de segundo grau ax² + bx + c = 0 e resolva a equação.
 
-// Exemplo:
+// Exemplo 1:
 // Entrada: a = 1, b = -3, c = -4
 // Saída: x1 = 4, x2 = -1 (raízes da equação)
+
+// Exemplo 2:
+// Entrada: a = 2, b = -7, c = 3
+// Saída: x1 = 3, x2 = 0.5 (raízes da equação)
+
+// Exemplo 3:
+// Entrada: a = 1, b = 0, c = -9
+// Saída: x1 = 3, x2 = -3 (raízes da equação)
