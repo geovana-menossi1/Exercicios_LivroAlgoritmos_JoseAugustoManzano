@@ -1,15 +1,40 @@
 // Exercício 12: Conversão de Real para Dólar
-// Escreva um programa que leia um valor em real (R$) e apresente o valor da conversão em dólar (US$), considerando a cotação do dólar.
-// Dica: Use a cotação atual do dólar para realizar a conversão.
 
-// Exemplo 1:
-// Entrada: 100 (valor em real)
-// Saída: 17.86 (valor em dólar, considerando a cotação de 5.60)
+// Descrição:
+// Este exercício consiste em desenvolver um programa que leia um valor em
+// real (R$), calcule e apresente o valor da conversão desse valor em dólar
+// (US$), considerando uma cotação do dólar previamente definida. O programa
+// receberá como entrada o valor em real, calculará o valor equivalente em
+// dólar usando a cotação do dólar e, por fim, exibirá o resultado da conversão.
 
-// Exemplo 2:
-// Entrada: 500 (valor em real)
-// Saída: 89.29 (valor em dólar, considerando a cotação de 5.60)
+// Passo a Passo:
 
-// Exemplo 3:
-// Entrada: 50 (valor em real)
-// Saída: 8.93 (valor em dólar, considerando a cotação de 5.60)
+// 1. Entrada de Dados:
+//    - Solicite ao usuário que insira um valor em real (R$).
+//    - Aguarde a entrada do usuário.
+
+// 2. Processamento:
+//    - Calcule o valor equivalente em dólar (US$) dividindo o valor em real
+//      pela cotação do dólar.
+
+// 3. Saída de Dados:
+//    - Exiba o valor convertido em dólar.
+
+// Exemplos:
+
+// - Exemplo 1:
+//   - ENTRADA: 100 (valor em real)
+//   - SAÍDA: 17.86 (valor em dólar, considerando a cotação de 5.60)
+
+// - Exemplo 2:
+//   - ENTRADA: 500 (valor em real)
+//   - SAÍDA: 89.29 (valor em dólar, considerando a cotação de 5.60)
+
+// - Exemplo 3:
+//   - ENTRADA: 50 (valor em real)
+//   - SAÍDA: 8.93 (valor em dólar, considerando a cotação de 5.60)
+
+// Exemplo em Pseudocódigo:
+// ENTRADA: valor_em_real
+// PROCESSAMENTO: valor_em_dolar = valor_em_real / cotacao_do_dolar
+// SAÍDA: exibir valor_em_dolar
