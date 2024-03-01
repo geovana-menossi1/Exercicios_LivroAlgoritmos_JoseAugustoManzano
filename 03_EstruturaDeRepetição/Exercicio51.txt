@@ -1,10 +1,18 @@
 // Exercício 51: Conversão de Graus Celsius em Fahrenheit
-// Escreva um programa que apresente os valores de conversão de graus Celsius em graus Fahrenheit, de dez em dez graus, iniciando a contagem em 10 graus Celsius e finalizando em 100 graus Celsius.
 
-// Exemplo:
-// Saída: 
-// 10°C = 50°F
-// 20°C = 68°F
-// 30°C = 86°F
-// ...
-// 100°C = 212°F
+// Descrição:
+// Este programa converte os valores de graus Celsius em graus Fahrenheit, de dez em dez graus, iniciando em 10°C e finalizando em 100°C.
+
+// Passo a Passo:
+
+// 1. Laço de Iteração:
+//    - Inicie um laço de iteração usando o comando FOR que percorre o intervalo de 10°C a 100°C, de dez em dez graus.
+//    - Dentro do laço, calcule o valor equivalente em Fahrenheit usando a fórmula de conversão.
+
+// 2. Saída de Dados:
+//    - Exiba os valores de conversão em Celsius e Fahrenheit.
+
+// Exemplo em Pseudocódigo:
+// PARA cada grauCelsius DE 10 ATÉ 100 COM PASSO 10 FAÇA
+//     grauFahrenheit = (grauCelsius * 9/5) + 32
+//     EXIBIR grauCelsius + "°C = " + grauFahrenheit + "°F"
