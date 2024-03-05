@@ -1,23 +1,40 @@
-// #### Exercício 102: Contagem de Números Pares e Ímpares em Matriz
+// Exercício 102: Contagem de Números Pares e Ímpares em Matriz
 
-// Elaborar um programa que leia uma matriz de dez linhas e sete colunas. Ao final, apresentar o total de elementos pares e ímpares existentes na matriz. Apresentar também o percentual de elementos pares e ímpares em relação ao total de elementos da matriz. Supondo a existência de 20 elementos pares e 50 elementos ímpares, haveria 28,6% de elementos pares e 71,4% de elementos ímpares.
+// Descrição:
+// Este exercício consiste em desenvolver um programa que leia uma matriz de dez linhas e sete colunas. Ao final, apresentar o total de elementos pares e ímpares existentes na matriz. Apresentar também o percentual de elementos pares e ímpares em relação ao total de elementos da matriz.
 
-// **Exemplo:**
+// Passo a Passo:
 
-// Entrada:
-// Matriz: (exemplo fictício)
-// [1, 2, 3, 4, 5, 6, 7,
-//  8, 9, 10, 11, 12, 13, 14,
-//  15, 16, 17, 18, 19, 20, 21,
-//  22, 23, 24, 25, 26, 27, 28,
-//  29, 30, 31, 32, 33, 34, 35,
-//  36, 37, 38, 39, 40, 41, 42,
-//  43, 44, 45, 46, 47, 48, 49,
-//  50, 51, 52, 53, 54, 55, 56,
-//  57, 58, 59, 60, 61, 62, 63,
-//  64, 65, 66, 67, 68, 69, 70]
+// 1. Entrada de Dados:
+//    - Leia a matriz com dez linhas e sete colunas.
+//    - Aguarde a entrada do usuário.
 
-// Saída: Total de elementos pares: 20
-//        Total de elementos ímpares: 50
-//        Percentual de elementos pares: 28.6%
-//        Percentual de elementos ímpares: 71.4%
+// 2. Contagem de Números Pares e Ímpares:
+//    - Para cada elemento da matriz, verifique se é par ou ímpar e conte o total de elementos pares e ímpares.
+//    - Calcule o percentual de elementos pares e ímpares em relação ao total de elementos da matriz.
+
+// 3. Saída de Dados:
+//    - Apresente o total de elementos pares e ímpares.
+//    - Apresente o percentual de elementos pares e ímpares.
+
+// Exemplo em Pseudocódigo:
+
+// matriz = lerMatriz(10, 7) // função para ler matriz com 10 linhas e 7 colunas
+// totalPares = 0
+// totalImpares = 0
+
+// PARA cada linha i da matriz FAÇA
+//     PARA cada coluna j da matriz FAÇA
+//         SE matriz[i][j] % 2 = 0 ENTÃO
+//             totalPares = totalPares + 1
+//         SENÃO
+//             totalImpares = totalImpares + 1
+
+// totalElementos = 10 * 7
+// percentualPares = (totalPares / totalElementos) * 100
+// percentualImpares = (totalImpares / totalElementos) * 100
+
+// EXIBIR "Total de elementos pares:", totalPares
+// EXIBIR "Total de elementos ímpares:", totalImpares
+// EXIBIR "Percentual de elementos pares:", percentualPares, "%"
+// EXIBIR "Percentual de elementos ímpares:", percentualImpares, "%"

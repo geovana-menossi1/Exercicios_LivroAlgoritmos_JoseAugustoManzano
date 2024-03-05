@@ -1,24 +1,29 @@
-// #### Exercício 108: Soma de Matrizes com Condições
+// Exercício 108: Soma de Matrizes com Condições
 
-// Elaborar um programa que faça a leitura de duas matrizes com cinco linhas e cinco colunas. A primeira matriz deve ser formada por valores que não sejam divisíveis por 3, enquanto a segunda matriz deve ser formada por valores que não sejam divisíveis por 6. As entradas dos valores nas matrizes devem ser validadas pelo programa, e não pelo usuário. Construir e apresentar uma terceira matriz de mesma dimensão que contenha a soma dos elementos da primeira e da segunda matriz.
+// Descrição:
+// Este exercício consiste em desenvolver um programa que faça a leitura de duas matrizes com cinco linhas e cinco colunas. A primeira matriz deve ser formada por valores que não sejam divisíveis por 3, enquanto a segunda matriz deve ser formada por valores que não sejam divisíveis por 6. As entradas dos valores nas matrizes devem ser validadas pelo programa, e não pelo usuário. Construir e apresentar uma terceira matriz de mesma dimensão que contenha a soma dos elementos da primeira e da segunda matriz.
 
-// **Exemplo:**
+// Passo a Passo:
 
-// Entrada:
-// Primeira Matriz: [1, 2, 4, 5, 7,
-//                    8, 10, 11, 13, 14,
-//                    16, 17, 19, 20, 22,
-//                    23, 25, 26, 28, 29,
-//                    31, 32, 34, 35, 37]
+// 1. Entrada de Dados:
+//    - Leia as duas matrizes com cinco linhas e cinco colunas.
+//    - Aguarde a entrada do usuário.
 
-// Segunda Matriz:  [2, 4, 5, 7, 8,
-//                    10, 11, 13, 14, 16,
-//                    17, 19, 20, 22, 23,
-//                    25, 26, 28, 29, 31,
-//                    32, 34, 35, 37, 38]
+// 2. Construção da Terceira Matriz:
+//    - Para cada elemento das matrizes, some o elemento da primeira matriz com o elemento da segunda matriz e armazene o resultado na terceira matriz.
 
-// Saída: Terceira Matriz: [3, 6, 9, 12, 15,
-//                           18, 21, 24, 27, 30,
-//                           33, 36, 39, 42, 45,
-//                           48, 51, 54, 57, 60,
-//                           63, 66, 69, 72, 75]
+// 3. Saída de Dados:
+//    - Apresente a terceira matriz.
+
+// Exemplo em Pseudocódigo:
+
+// matriz1 = lerMatriz(5, 5) // função para ler matriz com 5 linhas e 5 colunas
+// matriz2 = lerMatriz(5, 5) // função para ler matriz com 5 linhas e 5 colunas
+
+// terceiraMatriz = novaMatriz(5, 5) // função para criar nova matriz com 5 linhas e 5 colunas
+
+// PARA cada linha i da matriz FAÇA
+//     PARA cada coluna j da matriz FAÇA
+//         terceiraMatriz[i][j] = matriz1[i][j] + matriz2[i][j]
+
+// EXIBIR "Terceira Matriz:", terceiraMatriz

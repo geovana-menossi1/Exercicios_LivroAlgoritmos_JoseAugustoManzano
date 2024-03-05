@@ -1,15 +1,28 @@
-// #### Exercício 99: Somatório de Elementos em Posições Ímpares
+// Exercício 99: Somatório de Elementos em Posições Ímpares
 
-// Elaborar um programa que leia uma matriz do tipo real com cinco linhas e cinco colunas. Apresentar o somatório dos elementos situados nas posições de linha e coluna ímpares (posições [1,1], [3,3] e [5,5]).
+// Descrição:
+// Este exercício consiste em desenvolver um programa que leia uma matriz do tipo real com cinco linhas e cinco colunas e apresente o somatório dos elementos situados nas posições de linha e coluna ímpares.
 
-// **Exemplo:**
+// Passo a Passo:
 
-// Entrada:
-// Matriz: 
-// [1.0, 2.0, 3.0, 4.0, 5.0,
-//  6.0, 7.0, 8.0, 9.0, 10.0,
-//  11.0, 12.0, 13.0, 14.0, 15.0,
-//  16.0, 17.0, 18.0, 19.0, 20.0,
-//  21.0, 22.0, 23.0, 24.0, 25.0]
+// 1. Entrada de Dados:
+//    - Leia a matriz com cinco linhas e cinco colunas.
+//    - Aguarde a entrada do usuário.
 
-// Saída: Somatório dos elementos em posições ímpares: 39.0
+// 2. Somatório dos Elementos em Posições Ímpares:
+//    - Calcule o somatório dos elementos situados nas posições de linha e coluna ímpares.
+
+// 3. Saída de Dados:
+//    - Apresente o somatório calculado.
+
+// Exemplo em Pseudocódigo:
+
+// matriz = lerMatriz(5, 5) // função para ler matriz com 5 linhas e 5 colunas
+// somatorio = 0
+
+// PARA cada linha i da matriz FAÇA
+//     PARA cada coluna j da matriz FAÇA
+//         SE i % 2 = 0 E j % 2 = 0 ENTÃO
+//             somatorio = somatorio + matriz[i][j]
+
+// EXIBIR "Somatório dos Elementos em Posições Ímpares:", somatorio

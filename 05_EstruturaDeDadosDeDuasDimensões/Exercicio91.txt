@@ -1,20 +1,42 @@
 // Exercício 91: Manipulação de Matrizes
-// Elaborar um programa que leia duas matrizes com uma linha de doze colunas.
-// Construir uma terceira matriz onde a primeira coluna é constituída dos elementos da primeira matriz multiplicados por 2
-// e a segunda coluna dos elementos da segunda matriz subtraídos de 5. Apresentar as três matrizes.
 
-// Exemplo:
-// Entrada: Matriz 1: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-//          Matriz 2: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
-// Saída: Matriz Resultante: [2, 8,
-//                             4, 9,
-//                             6, 10,
-//                             8, 11,
-//                             10, 12,
-//                             12, 13,
-//                             14, 14,
-//                             16, 15,
-//                             18, 16,
-//                             20, 17,
-//                             22, 18,
-//                             24, 19]
+// Descrição:
+// Este exercício consiste em desenvolver um programa que leia duas matrizes com uma linha de doze colunas e construa uma terceira matriz.
+
+// Passo a Passo:
+
+// 1. Entrada de Dados:
+//    - Leia as duas matrizes com uma linha de doze colunas cada.
+//    - Aguarde a entrada do usuário.
+
+// 2. Inicialização da Matriz Resultante:
+//    - Inicialize a matriz resultante com duas colunas e doze linhas.
+
+// 3. Preenchimento da Matriz Resultante:
+//    - Para cada elemento da primeira matriz, multiplique por 2 e coloque na primeira coluna da matriz resultante.
+//    - Para cada elemento da segunda matriz, subtraia 5 e coloque na segunda coluna da matriz resultante.
+
+// 4. Saída de Dados:
+//    - Apresente as três matrizes: a primeira, a segunda e a resultante.
+
+// Exemplo em Pseudocódigo:
+
+// matriz1 = lerMatriz(1, 12) // função para ler matriz com 1 linha e 12 colunas
+// matriz2 = lerMatriz(2, 12) // função para ler matriz com 1 linha e 12 colunas
+// matrizResultado = novaMatriz(12, 2) // função para criar nova matriz com 12 linhas e 2 colunas
+
+// PARA cada elemento i da matriz1 FAÇA
+//     matrizResultado[i][0] = matriz1[i] * 2
+
+// PARA cada elemento i da matriz2 FAÇA
+//     matrizResultado[i][1] = matriz2[i] - 5
+
+// EXIBIR "Matriz 1:"
+// EXIBIR matriz1
+
+// EXIBIR "Matriz 2:"
+// EXIBIR matriz2
+
+// EXIBIR "Matriz Resultante:"
+// EXIBIR matrizResultado
+// 
